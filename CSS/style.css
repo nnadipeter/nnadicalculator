@@ -161,7 +161,7 @@ form input.operator {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    padding: 6rem 8%;
+    padding: 6rem 4%;
   }
 
   /* -----.leftContent, .rightContent {
